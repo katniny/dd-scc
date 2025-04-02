@@ -1,3 +1,8 @@
+> [!WARNING]
+> This version of DigiDiva is no longer available, and this Privacy Policy is no longer in use, as I am not longer affliated or associated with SCC or its members.
+>
+> This will remain available for archival purposes.
+
 ## Privacy Policy for the "DigiDiva for SCC" Discord bot.
 This Privacy Policy outlines the collection, usage, and access of user data by the "DigiDiva for SCC" Discord bot ("DigiDiva"). DigiDiva and <a href="https://katniny.com/" target="_blank">katniny</a> are committed to ensuring the privacy and protection of user information. By using DigiDiva, you agree to the practices described in this Privacy Policy.
 
